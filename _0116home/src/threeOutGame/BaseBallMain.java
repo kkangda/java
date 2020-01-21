@@ -1,6 +1,6 @@
 package threeOutGame;
 
-public class BaseBallMain { // ¸ŞÀÎÅ¬·¡½º
+public class BaseBallMain { // ë©”ì¸ í´ë˜ìŠ¤
 	public static int[] ball = new int[3];
 
 	public static void main(String[] args) {
